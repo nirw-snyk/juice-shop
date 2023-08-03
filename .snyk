@@ -12,4 +12,9 @@ ignore:
         reason: None Given
         expires: 2023-08-24T11:30:31.043Z
         created: 2023-07-25T11:30:31.054Z
+  SNYK-JS-UNSETVALUE-2400660:
+    - '*':
+        reason: None Given
+        expires: 2023-09-02T04:51:12.009Z
+        created: 2023-08-03T04:51:12.023Z
 patch: {}
