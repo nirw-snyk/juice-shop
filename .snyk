@@ -13,7 +13,7 @@ ignore:
         expires: 2023-12-21T09:36:04.620Z
         created: 2023-11-21T09:36:04.628Z
 patch: {}
-exclude:
-  global:
-    - routes
-    - lib
+#exclude:
+#  global:
+#    - routes
+#    - lib
